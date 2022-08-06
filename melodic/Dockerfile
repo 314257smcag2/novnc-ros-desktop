@@ -1,4 +1,4 @@
-FROM osrf/ros:melodic-desktop-full
+FROM ubuntu:18.04
 
 ENV DEBIAN_FRONTEND noninteractive
 
