@@ -1,4 +1,4 @@
 deploy:
-  - okteto stack deploy --build -f melodic/docker-compose.yaml
+  - okteto stack deploy --build -f noetic/docker-compose.yaml
 devs:
-  - melodic/docker-compose.yaml
+  - noetic/docker-compose.yaml
